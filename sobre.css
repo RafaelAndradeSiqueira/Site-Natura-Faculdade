@@ -1,0 +1,87 @@
+body {
+    color: black;
+    background-color: rgb(243, 232, 211);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color:rgb(255, 245, 235);
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.logo-imagem {
+    width: 50px;
+    height: 30px;
+    margin-top: 30px;
+    margin-right:1100px ;
+}
+.container-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 65px;
+}
+
+footer {
+    display: flex;
+    margin: 20px;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.cabecalhobaixo1 {
+    margin: 20px;
+}
+
+.cabecalhobaixo2 {
+    margin: 20px;
+}
+
+.linharodape {
+    font-size: 20px;
+}
+
+.video1 {
+    margin-top: 75px;
+}
+
+.h1-meio {
+    height: 100px;
+    width: 550px;
+    margin: 0px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 26px;
+}
+
+.lh1 {
+    background-color: #d6c2ab;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 28px;
+    color: rgb(0, 0, 0);
+    -webkit-text-stroke: black;
+    -webkit-text-stroke-width: 0.6px;
+    margin-top: 75px;
+}
+
+.video1 {
+    margin-left: 35px;    
+}
+
+.layoutvideo1 {
+    display: flex;
+}
+.sobre {
+    color: red;
+}

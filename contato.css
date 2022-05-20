@@ -1,0 +1,66 @@
+body {
+    color: black;
+    background-color: rgb(243, 232, 211);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color:rgb(255, 245, 235);
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.logo-imagem {
+    width: 50px;
+    height: 30px;
+    margin-top: 30px;
+    margin-right: 1100px;
+}
+.container-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 65px;
+}
+
+footer {
+    display: flex;
+    margin: 20px;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.cabecalhobaixo1 {
+    margin: 20px;
+}
+
+.cabecalhobaixo2 {
+    margin: 20px;
+}
+
+.linharodape {
+    font-size: 20px;
+}
+
+.sexo {
+    display: flex;
+}
+
+.container {
+    background-color: rgb(185, 185, 245);
+    text-align: center;
+    width: 500px;
+    margin-left: 500px;
+    display: inline-block;
+    
+}
+
